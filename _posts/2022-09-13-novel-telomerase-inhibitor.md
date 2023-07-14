@@ -9,7 +9,7 @@ tags:
   - Cheminformatics
 ---
 
-Novel ligand generation, docking, and chemical diversity analysis. 
+Novel ligand generation, docking, and chemical diversity analysis 
 
 In this work, I generated a library of 100 novel derivatives from a lead compound.
 Afterwards, the generated compounds were converted to 3D formats using industry standard 
