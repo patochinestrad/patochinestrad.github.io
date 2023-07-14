@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Patricio Chinestrad CV
+title: Patricio Chinestrad - PhD Student
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Patricio Chinestrad Online CV. Lists publications, talks,
+  awards and projects together with links to the relevant sites.
+  Also works as a Data Science portfolio and proof-of-knowledge.
 twitter_username: patochinestrad
 github_username: patochinestrad
 search: true
@@ -60,32 +60,23 @@ plugins:
 author:
   name   : "Patricio Chinestrad"
   avatar : "/assets/images/profilepic.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD student focused on Drug Design, Bioinformatics and Data Science."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/patochinestrad"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/pato_chinestrad"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/patochinestrad"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/pato_chinestrad"
 
 defaults:
   # _posts
