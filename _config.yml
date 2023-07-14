@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Patricio Chinestrad"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profilepic.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
