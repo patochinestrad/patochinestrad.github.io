@@ -17,5 +17,8 @@ with 1A-116, a drug developed at the Laboratory of Molecular Oncology, UNQ.
 
 ![rac1-docking-results](/assets/images/rac1-docking-results.png)
 
+The figure D shows the predicted binding affinity of 1A-116 to Rac1, Rac1 W56F, CDC42 and CDC42 F56W. 
+As can be seen in figure E, the predicted results are mirrored by the _in vitro_ experiments!
+
 [publication]: https://doi.org/10.3389/fcell.2020.00240
 
