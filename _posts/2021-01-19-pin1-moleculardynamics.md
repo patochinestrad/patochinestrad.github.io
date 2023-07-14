@@ -29,4 +29,5 @@ in the figure below, the residue W34 and its sourroundings are stable along the 
 result! Figure A and B show the stability of the system, while figure C shows the RMSF. Figure D is a 3D structure of PIN1
 colored by the RMSF value of the residue. W34 can be seen in blue, being the only residue in the sticks representation. The
 RMSF color code in this case is 'blue < white < red'
+
 ![pin1-dinamica](/assets/images/pin1-dinamica.png)
