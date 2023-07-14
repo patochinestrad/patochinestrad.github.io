@@ -9,6 +9,8 @@ tags:
 
 Conformational diversity and molecular dynamics analysis of PIN1
 
+Check the [publication]
+
 In this work, I analyzed 42 conformations of the PIN1 protein. To search
 for molecules that would bind to the whole range of conformations, I compared
 searched for the maximum RMSD pair, and evaluated the Z-score of the per-residue
@@ -31,3 +33,5 @@ colored by the RMSF value of the residue. W34 can be seen in blue, being the onl
 RMSF color code in this case is 'blue < white < red'
 
 ![pin1-dinamica](/assets/images/pin1-dinamica.png)
+
+[publication]: https://doi.org/10.1080/07391102.2021.1874531

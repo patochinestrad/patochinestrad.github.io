@@ -11,6 +11,8 @@ tags:
 
 Novel ligand generation, docking, and chemical diversity analysis 
 
+Check the [publication]
+
 In this work, I generated a library of 100 novel derivatives from a lead compound.
 Afterwards, the generated compounds were converted to 3D formats using industry standard 
 Python packages, and were analyzed using the Protein-Ligand Interaction Profiler software.
@@ -26,3 +28,5 @@ of the selected compounds in bit vectors that I later compared using the Tanimot
 This resulted in four different similarity matrices, each evaluating a different property of the molecules, that can be seen below.
 
 ![dysk-analogs-tanimoto](/assets/images/dysk-analogs-tanimoto.png)
+
+[publication]: https://www.spandidos-publications.com/10.3892/or.2022.8403
